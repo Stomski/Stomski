@@ -1,5 +1,15 @@
 # Stomski
 
+
+
+---
+
+## About Me:
+
+Blending a passion for technology with a background in teaching Brazilian Jiu-Jitsu has led me to an exciting career in software engineering. Mentoring martial arts students honed my skills in spatial thinking, communication, time management, and teamwork, all while shaping what would become a unique approach to analytical problem-solving in tech. 
+
+
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BobbyStomski)
