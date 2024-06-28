@@ -26,6 +26,15 @@ I also have a pilots lisence :D
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Stomski&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stomski&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stomski&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Stomski&icon=0&color=12)](https://visitcount.itsvg.in)
