@@ -8,7 +8,7 @@
 
 Blending a passion for technology with a background in teaching Brazilian Jiu-Jitsu has led me to an exciting career in software engineering. Mentoring martial arts students honed my skills in spatial thinking, communication, time management, and teamwork, all while shaping what would become a unique approach to analytical problem-solving in tech. 
 
-I also have a pilots lisence :D
+I also have a pilot's lisence :D
 
 
 
